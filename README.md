@@ -1,4 +1,4 @@
-# I'm Bollinger Bands, an AA i-Bot!
+# I'm Chris, an AA i-Bot!
 
 # Disclaimer
 
